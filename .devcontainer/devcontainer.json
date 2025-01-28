@@ -1,0 +1,24 @@
+{
+  "name": "Flutter & Firebase Development",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      },
+      "extensions": [
+        "Dart-Code.flutter",
+        "Dart-Code.flutter-snippets",
+        "ms-vscode.vscode-typescript-next",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "postCreateCommand": "flutter doctor",
+  "forwardPorts": [],
+  "remoteUser": "vscode"
+}
+
