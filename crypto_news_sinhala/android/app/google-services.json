@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890768560669",
+    "project_id": "crypto-news-app-sinhala",
+    "storage_bucket": "crypto-news-app-sinhala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890768560669:android:8347dbffdfc1ca9d5aacf4",
+        "android_client_info": {
+          "package_name": "com.example.crypto_news_sinhala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRiFms_CM_oO0kU3R5cHJEKqozasITOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
